@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>EEULA</class>
+ <widget class="QDialog" name="EEULA">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>654</width>
+    <height>483</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>EULA</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QScrollArea" name="scrollArea">
+     <property name="widgetResizable">
+      <bool>true</bool>
+     </property>
+     <widget class="QWidget" name="scrollAreaWidgetContents">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>620</width>
+        <height>1204</height>
+       </rect>
+      </property>
+      <layout class="QVBoxLayout" name="verticalLayout_2">
+       <item>
+        <widget class="QLabel" name="label">
+         <property name="text">
+          <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;title&gt;EULA-OTS&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a name=&quot;internal-source-marker_0.9865202642977238&quot;&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;E&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;ND-USER LICENSE AGREEMENT FOR Data Import For Ontario Tire Stewardship&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;IMPORTANT, PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THIS PROGRAM: Joshua Netterfield’s End-User License Agreement (&amp;quot;EULA&amp;quot;) is a legal agreement between you (either an individual or a single entity) and Joshua Netterfield. For Joshua Netterfield's software product(s) identified above which may include associated software components, media, printed materials, and &amp;quot;online&amp;quot; or electronic documentation (&amp;quot;SOFTWARE PRODUCT&amp;quot;). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. This license agreement represents the entire agreement concerning the program between you and Joshua Netterfield, (referred to as &amp;quot;licenser&amp;quot;), and it supersedes any prior proposal, representation, or understanding between the parties. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;1. GRANT OF LICENSE.&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;The SOFTWARE PRODUCT is licensed as follows: &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;(a) Installation and Use.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;With a valid license, Joshua Netterfield grants you the right to install and use copies of the SOFTWARE PRODUCT on an unlimited number of computers.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;(b) Backup Copies.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;You may also make copies of the SOFTWARE PRODUCT as may be necessary for backup and archival purposes.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;(a) Maintenance of Copyright Notices.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;You must not remove or alter any copyright notices on any and all copies of the SOFTWARE PRODUCT.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;(b) Distribution.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;You may distribute registered copies of the SOFTWARE PRODUCT to third parties.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;(c) Prohibition on Reverse Engineering, Decompilation, and Disassembly.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;(d) Rental.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;With a valid license, you may rent, lease, or lend the SOFTWARE PRODUCT.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;(e) Support Services.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;Joshua Netterfield &lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-style:italic; color:#000000; background-color:#ffffff;&quot;&gt;may&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt; provide you with support services related to the SOFTWARE PRODUCT (&amp;quot;Support Services&amp;quot;). Any supplemental software code provided to you as part of the Support Services shall be considered part of the SOFTWARE PRODUCT and subject to the terms and conditions of this EULA. &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;(f) Compliance with Applicable Laws.&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;You must comply with all applicable laws regarding use of the SOFTWARE PRODUCT.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;3. TERMINATION &lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;Without prejudice to any other rights, Joshua Netterfield may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT in your possession.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;4. COPYRIGHT&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;All title, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by Joshua Netterfield or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content. All rights not expressly granted are reserved by Joshua Netterfield.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;5. NO WARRANTIES&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;Joshua Netterfield expressly disclaims any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT is provided 'As Is' without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, noninfringement, or fitness of a particular purpose. Joshua Netterfield does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the SOFTWARE PRODUCT. Joshua Netterfield makes no warranties respecting any harm that may be caused by the transmission of a computer virus, worm, time bomb, logic bomb, or other such computer program. Joshua Netterfield further expressly disclaims any warranty or representation to Authorized Users or to any third party.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; font-weight:600; color:#000000; background-color:#ffffff;&quot;&gt;6. LIMITATION OF LIABILITY&lt;/span&gt;&lt;span style=&quot; font-family:'Times New Roman'; font-size:10pt; color:#000000;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Tahoma'; font-size:10pt; color:#000000; background-color:#ffffff;&quot;&gt;In no event shall Joshua Netterfield be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of 'Authorized Users' use of or inability to use the SOFTWARE PRODUCT, even if Joshua Netterfield has been advised of the possibility of such damages. In no event will Joshua Netterfield be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort or otherwise. Joshua Netterfield shall have no liability with respect to the content of the SOFTWARE PRODUCT or any part thereof, including but not limited to errors or omissions contained therein, libel, infringements of rights of publicity, privacy, trademark rights, business interruption, personal injury, loss of privacy, moral rights or the disclosure of confidential information.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+         </property>
+         <property name="wordWrap">
+          <bool>true</bool>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+   </item>
+   <item>
+    <widget class="QLabel" name="label_2">
+     <property name="text">
+      <string>Do you agree to the terms and conditions of this EULA?</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QDialogButtonBox" name="buttonBox">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="standardButtons">
+      <set>QDialogButtonBox::No|QDialogButtonBox::Yes</set>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>accepted()</signal>
+   <receiver>EEULA</receiver>
+   <slot>accept()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>248</x>
+     <y>254</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>157</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>rejected()</signal>
+   <receiver>EEULA</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>316</x>
+     <y>260</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>286</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
